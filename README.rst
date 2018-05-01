@@ -1,6 +1,6 @@
-=============
+==========
 ROLE SNMP
-=============
+==========
 
 .. image:: https://img.shields.io/github/license/adfinis-sygroup/ansible-role-snmp.svg?style=flat-square
   :target: https://github.com/adfinis-sygroup/ansible-role-snmp/blob/master/LICENSE
@@ -65,3 +65,4 @@ Author Information
 snmp role was written by:
 
 * Adfinis SyGroup AG | `Website <https://www.adfinis-sygroup.ch/>`_ | `Twitter <https://twitter.com/adfinissygroup>`_ | `GitHub <https://github.com/adfinis-sygroup>`_
+
