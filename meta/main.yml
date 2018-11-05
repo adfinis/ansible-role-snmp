@@ -3,6 +3,7 @@
 dependencies: []
 
 galaxy_info:
+  role_name: 'snmp'
   author: 'Adfinis SyGroup AG'
   description: 'Install and manage snmpd and snmp (incl. snmpwalk)'
   company: 'Adfinis SyGroup AG'
